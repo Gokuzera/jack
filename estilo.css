@@ -1,0 +1,22 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+}
+#opocontainer{
+    width: 980px;
+    height: 200px;
+    margin: auto;
+    background-color: blueviolet;
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    float: left;
+}
+#menu{
+    width: 780px;
+    height: 200px;
+    background-color: brown;
+    float: right;
+}
